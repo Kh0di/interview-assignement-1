@@ -43,7 +43,7 @@ Page for showcasing different products, represented via cards in a grid layout, 
     - restricted to only logged-in users
   - *responsiveness* - page should be responsive on all devices (from phones, through tablets to desktops)
 
-## Mock up
+**Mock up**
 ![products-page-mockup](https://github.com/Kh0di/interview-assignement-1/blob/master/mockup%20-%20products%20page.png?raw=true)
 
 ### User Profile page
@@ -65,7 +65,7 @@ Page for showing the products a user marked as favourite or added to their cart 
     - returns the user back to Product page
     - the list of favorites and cart should not be deleted upon logout and should be unique to each user
 
-## Mock up
+**Mock up**
 ![user-profile-page-mockup](https://github.com/Kh0di/interview-assignement-1/blob/master/mockup%20-%20profil%20page.png?raw=true)
 
 ### Log-in dialog
@@ -83,7 +83,7 @@ User's are dynamic and created on the go - if a user with entered credentials do
     - if the validation is not met, an error message needs to be shown below the invalid input in question
     - pressing enter should validate and submit the form
 
-## Mock up
+**Mock up**
 ![login-dialog-mockup](https://github.com/Kh0di/interview-assignement-1/blob/master/mockup%20-%20log%20in%20dialog.png?raw=true)
 
 ## Notes for Interviewer
